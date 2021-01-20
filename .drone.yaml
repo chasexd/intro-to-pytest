@@ -6,4 +6,5 @@ steps:
   image: python
   commands:
   - pip install -r requirements.txt
+  - ls -la
   - pytest
