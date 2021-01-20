@@ -1,7 +1,6 @@
 # intro-to-pytest
 
 [![Build Status](https://drone.chasexd.com/api/badges/chasexd/intro-to-pytest/status.svg)](https://drone.chasexd.com/chasexd/intro-to-pytest)
-
 An introduction to PyTest with lots of simple, hackable examples (currently Python 2.7 / 3.6+ compatible).
 
 These examples are intended to be self-explanatory to a Python developer, with minimal setup - In addition to Python 2.7 or 3.6+, you'll also need `pytest` and the `pytest-mock` plugin installed to use all these examples, which you can install by running:
